@@ -1,0 +1,21 @@
+_id: req_0e5a0e13868b4910a89ac86cf9a52095
+type: Request
+parentId: fld_1099e8e8f95e430c90c05b0fd0b0904b
+modified: 1675764335236
+created: 1675764076438
+url: http://localhost:5111/api/products/category/63e21b431a84b36e4886096f
+name: Products by category ID - 5111
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675180475327.7188
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

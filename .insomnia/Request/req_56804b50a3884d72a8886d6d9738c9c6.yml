@@ -1,0 +1,21 @@
+_id: req_56804b50a3884d72a8886d6d9738c9c6
+type: Request
+parentId: fld_9c8ac524a56b44caa0db86a5bf5ab19d
+modified: 1675683706013
+created: 1675683307440
+url: http://localhost:5111/api/staffinfo
+name: Delete Staff - 5111
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675173435884.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

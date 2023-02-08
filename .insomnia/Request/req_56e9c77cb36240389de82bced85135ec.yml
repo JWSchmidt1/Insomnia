@@ -1,0 +1,21 @@
+_id: req_56e9c77cb36240389de82bced85135ec
+type: Request
+parentId: fld_1cb850d24c6045de9be195c626c3df16
+modified: 1675671922779
+created: 1675671883941
+url: http://localhost:5111/api/user/logout
+name: LOGOUT- 5111
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675156442825
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

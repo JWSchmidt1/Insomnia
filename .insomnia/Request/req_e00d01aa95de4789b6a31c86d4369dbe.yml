@@ -1,0 +1,49 @@
+_id: req_e00d01aa95de4789b6a31c86d4369dbe
+type: Request
+parentId: fld_5515b679035d48e7beb9c5320f21ce47
+modified: 1675677752586
+created: 1675677209197
+url: http://localhost:5111/api/companyinfo
+name: Update Company Info - 5111
+description: ""
+method: PUT
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_2553f60d340b4b0e8d1249bf6e503e67
+      name: companyname
+      value: Firma New A/S
+      description: ""
+    - id: pair_be05e4ea4c0d47da94c3fca056ef909d
+      name: address
+      value: Vej Navn 123
+      description: ""
+    - id: pair_432ed1b8a45b456f87ec9b358d13c009
+      name: postcode
+      value: "8500"
+      description: ""
+    - id: pair_e6e2f9945cc8437ebfd2d00425c1b620
+      name: city
+      value: Grenaa
+      description: ""
+    - id: pair_914417732ef94949a7c9c8900cda03f6
+      name: email
+      value: firma@firma.dk
+      description: ""
+    - id: pair_c04f2e7865124357aa541d61f518e6db
+      name: openinghours
+      value: Alle hverdage 8-16, lukket weekender & alle helligdage
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1675176704197.289
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,44 @@
+_id: req_258462bddb8e43ff8bb09b853ac92e97
+type: Request
+parentId: fld_9c8ac524a56b44caa0db86a5bf5ab19d
+modified: 1675683934012
+created: 1675683493006
+url: http://localhost:5111/api/staffinfo/63e0e7dc3814ac86f1a42735
+name: Update Staff - 5111
+description: ""
+method: PUT
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_2553f60d340b4b0e8d1249bf6e503e67
+      name: name
+      value: Nyt Navn
+      description: ""
+    - id: pair_be05e4ea4c0d47da94c3fca056ef909d
+      name: email
+      value: navn@navn.com
+      description: ""
+    - id: pair_432ed1b8a45b456f87ec9b358d13c009
+      name: workstatus
+      value: Mega chef
+      description: ""
+    - id: pair_c5e2752f86504638ae41c1b691dd09fa
+      name: profileimage
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\jann008n\OneDrive - Viden
+        Djurs\Skrivebord\serversideprogrammering-vigtigbillede-nummer2.jpeg
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1675177207014.6797
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

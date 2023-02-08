@@ -1,0 +1,29 @@
+_id: req_8f8006d39282430e8dfc9baccb8beb59
+type: Request
+parentId: fld_42962ce6b24c4c1fa97812ebb5789155
+modified: 1675165664531
+created: 1675165431516
+url: http://localhost:5115/api/user/login
+name: LOGIN - 5115
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "mm@mmm.dk",
+    	"password": "abcABC123!?#"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1675165390656
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

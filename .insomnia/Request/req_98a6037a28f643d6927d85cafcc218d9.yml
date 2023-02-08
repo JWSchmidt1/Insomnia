@@ -1,0 +1,21 @@
+_id: req_98a6037a28f643d6927d85cafcc218d9
+type: Request
+parentId: fld_1099e8e8f95e430c90c05b0fd0b0904b
+modified: 1675255614833
+created: 1675255570440
+url: http://localhost:5111/api/products/search/bord
+name: Specific Product Search - 5111
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675179469692.9375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

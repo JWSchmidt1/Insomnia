@@ -1,0 +1,74 @@
+_id: req_a090aa06764f4257985bf8ffa01a2ce4
+type: Request
+parentId: fld_1099e8e8f95e430c90c05b0fd0b0904b
+modified: 1675769737190
+created: 1675245618432
+url: http://localhost:5111/api/products/63e236c78a20fd5d69b8ba33
+name: Update Product - 5111
+description: ""
+method: PUT
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_2553f60d340b4b0e8d1249bf6e503e67
+      name: productname
+      value: galleri
+      description: ""
+      disabled: false
+    - id: pair_f2fdc99bf158415e93fdda9272a12199
+      name: price
+      value: "15"
+      description: ""
+    - id: pair_53520e6aac514d419af35c3c0af9f425
+      name: teaser
+      value: Kort teaser
+      description: ""
+    - id: pair_b968e09713f74c089eccc22f080b102e
+      name: description
+      value: Lang beskrivelse
+      description: ""
+    - id: pair_f31c56c594544c829e37a4416647daca
+      name: productimage
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\jann008n\OneDrive - Viden
+        Djurs\Skrivebord\serversideprogrammering-vigtigbillede-nummer2.jpeg
+    - id: pair_4ae4701b20fc4b6a828f71c1d677d391
+      name: category
+      value: 63e21b431a84b36e4886096f
+      description: ""
+    - id: pair_6c6b7f070685422395d1438d276932c4
+      name: gallery
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\jann008n\OneDrive - Viden Djurs\Skrivebord\stock
+        images\pexels-liane-cumming-15045055.jpg
+    - id: pair_68159783a8674769a2ede1063bb5f74c
+      name: gallery
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\jann008n\OneDrive - Viden Djurs\Skrivebord\stock
+        images\pexels-marina-leonova-9374416.jpg
+    - id: pair_95fa7729890b4fe8adb3d33dab7f7fef
+      name: gallery
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\jann008n\OneDrive - Viden Djurs\Skrivebord\stock
+        images\pexels-somewherewith-tom-15387593.jpg
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1675176452788.5938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

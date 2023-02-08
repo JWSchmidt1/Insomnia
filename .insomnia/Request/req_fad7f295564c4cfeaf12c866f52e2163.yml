@@ -1,0 +1,73 @@
+_id: req_fad7f295564c4cfeaf12c866f52e2163
+type: Request
+parentId: fld_1099e8e8f95e430c90c05b0fd0b0904b
+modified: 1675769542071
+created: 1675238874997
+url: http://localhost:5111/api/products
+name: Create Product - 5111
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_2553f60d340b4b0e8d1249bf6e503e67
+      name: productname
+      value: Æbler
+      description: ""
+    - id: pair_be05e4ea4c0d47da94c3fca056ef909d
+      name: price
+      value: "15"
+      description: ""
+    - id: pair_432ed1b8a45b456f87ec9b358d13c009
+      name: teaser
+      value: Ny
+      description: ""
+    - id: pair_e6e2f9945cc8437ebfd2d00425c1b620
+      name: description
+      value: Her er en ny beskrivelse
+      description: ""
+    - id: pair_c5e2752f86504638ae41c1b691dd09fa
+      name: productimage
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\jann008n\OneDrive - Viden
+        Djurs\Skrivebord\serversideprogrammering-vigtigbillede-nummer2.jpeg
+    - id: pair_ca4e8fadf53f492c85f10e3655b0a02f
+      name: category
+      value: 63e21b5e1a84b36e48860973
+      description: ""
+    - id: pair_81596c859c5a4b5185a22fb3bbd2df44
+      name: gallery
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\jann008n\OneDrive - Viden Djurs\Skrivebord\stock
+        images\pexels-artūras-kokorevas-14683130.jpg
+    - id: pair_29b139a20251469dbf65bd896f13a34a
+      name: gallery
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\jann008n\OneDrive - Viden Djurs\Skrivebord\stock
+        images\pexels-ben-mack-6775376.jpg
+    - id: pair_e5ff15ec2c824ead955a1867134c3553
+      name: gallery
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\jann008n\OneDrive - Viden Djurs\Skrivebord\stock
+        images\pexels-gin-14394351.jpg
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1675177458423.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

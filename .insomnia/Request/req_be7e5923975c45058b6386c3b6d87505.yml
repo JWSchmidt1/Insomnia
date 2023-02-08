@@ -1,0 +1,21 @@
+_id: req_be7e5923975c45058b6386c3b6d87505
+type: Request
+parentId: fld_9c8ac524a56b44caa0db86a5bf5ab19d
+modified: 1675683708887
+created: 1675683307435
+url: http://localhost:5111/api/staffinfo
+name: All Staff - 5111
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675197571119
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

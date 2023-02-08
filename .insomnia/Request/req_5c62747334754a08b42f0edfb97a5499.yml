@@ -1,0 +1,21 @@
+_id: req_5c62747334754a08b42f0edfb97a5499
+type: Request
+parentId: fld_1cb850d24c6045de9be195c626c3df16
+modified: 1675165383590
+created: 1675156443025
+url: http://localhost:5111/api/hilsen
+name: HILSEN - 5111
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675156443025
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

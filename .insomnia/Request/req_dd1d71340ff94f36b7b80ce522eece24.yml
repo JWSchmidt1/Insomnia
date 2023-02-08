@@ -1,0 +1,21 @@
+_id: req_dd1d71340ff94f36b7b80ce522eece24
+type: Request
+parentId: fld_9c8ac524a56b44caa0db86a5bf5ab19d
+modified: 1675683717568
+created: 1675683307450
+url: http://localhost:5111/api/staffinfo/search/bord
+name: Specific Staff Search - 5111
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675179469692.9375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

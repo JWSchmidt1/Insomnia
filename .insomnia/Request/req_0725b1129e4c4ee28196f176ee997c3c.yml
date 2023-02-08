@@ -1,0 +1,21 @@
+_id: req_0725b1129e4c4ee28196f176ee997c3c
+type: Request
+parentId: fld_89f71ddbfd6d4bd98811b8e902d250e0
+modified: 1675762376117
+created: 1675762290788
+url: http://localhost:5111/api/categories
+name: All Categories - 5111
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675197571119
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

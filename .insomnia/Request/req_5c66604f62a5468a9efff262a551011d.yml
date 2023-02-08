@@ -1,0 +1,44 @@
+_id: req_5c66604f62a5468a9efff262a551011d
+type: Request
+parentId: fld_9c8ac524a56b44caa0db86a5bf5ab19d
+modified: 1675688241774
+created: 1675683307443
+url: http://localhost:5111/api/staffinfo
+name: Create Staff - 5111
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_2553f60d340b4b0e8d1249bf6e503e67
+      name: name
+      value: Brian
+      description: ""
+    - id: pair_be05e4ea4c0d47da94c3fca056ef909d
+      name: email
+      value: Brian1@navn.com
+      description: ""
+    - id: pair_432ed1b8a45b456f87ec9b358d13c009
+      name: workstatus
+      value: Han er her bare
+      description: ""
+    - id: pair_c5e2752f86504638ae41c1b691dd09fa
+      name: profileimage
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\jann008n\OneDrive - Viden
+        Djurs\Skrivebord\serversideprogrammering-vigtigbillede-nummer2.jpeg
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1675177458423.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,49 @@
+_id: req_6cc4c9e1c9c44cb190927ff31579f876
+type: Request
+parentId: fld_5515b679035d48e7beb9c5320f21ce47
+modified: 1675677175267
+created: 1675677087298
+url: http://localhost:5111/api/companyinfo
+name: Get Company Info - 5111
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_2553f60d340b4b0e8d1249bf6e503e67
+      name: companyname
+      value: ""
+      description: ""
+    - id: pair_be05e4ea4c0d47da94c3fca056ef909d
+      name: address
+      value: ""
+      description: ""
+    - id: pair_432ed1b8a45b456f87ec9b358d13c009
+      name: postcode
+      value: ""
+      description: ""
+    - id: pair_e6e2f9945cc8437ebfd2d00425c1b620
+      name: city
+      value: ""
+      description: ""
+    - id: pair_914417732ef94949a7c9c8900cda03f6
+      name: email
+      value: ""
+      description: ""
+    - id: pair_c04f2e7865124357aa541d61f518e6db
+      name: openinghours
+      value: ""
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1675176955605.9844
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

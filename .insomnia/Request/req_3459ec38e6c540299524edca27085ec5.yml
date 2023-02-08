@@ -1,0 +1,30 @@
+_id: req_3459ec38e6c540299524edca27085ec5
+type: Request
+parentId: fld_89f71ddbfd6d4bd98811b8e902d250e0
+modified: 1675763334540
+created: 1675762290801
+url: http://localhost:5111/api/categories/63e21b481a84b36e48860971
+name: Update Category - 5111
+description: ""
+method: PUT
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_2553f60d340b4b0e8d1249bf6e503e67
+      name: categoryname
+      value: Bøger
+      description: ""
+      disabled: false
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1675176452788.5938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

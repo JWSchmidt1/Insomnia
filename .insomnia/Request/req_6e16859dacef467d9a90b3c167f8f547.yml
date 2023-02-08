@@ -1,0 +1,30 @@
+_id: req_6e16859dacef467d9a90b3c167f8f547
+type: Request
+parentId: fld_42962ce6b24c4c1fa97812ebb5789155
+modified: 1675165442359
+created: 1675165424619
+url: http://localhost:5115/api/user/signup
+name: SIGNUP - 5115
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Kaj",
+    	"email": "mm@mmm.dk",
+    	"password": "abcABC123!?#"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1675165390706
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

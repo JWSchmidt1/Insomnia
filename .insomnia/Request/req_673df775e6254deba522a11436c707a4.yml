@@ -1,0 +1,21 @@
+_id: req_673df775e6254deba522a11436c707a4
+type: Request
+parentId: fld_1099e8e8f95e430c90c05b0fd0b0904b
+modified: 1675769753747
+created: 1675238743680
+url: http://localhost:5111/api/products?limit=10
+name: All Products - 5111
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675197571119
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

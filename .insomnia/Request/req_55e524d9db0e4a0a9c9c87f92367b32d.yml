@@ -1,0 +1,21 @@
+_id: req_55e524d9db0e4a0a9c9c87f92367b32d
+type: Request
+parentId: fld_1099e8e8f95e430c90c05b0fd0b0904b
+modified: 1675418076732
+created: 1675238795966
+url: http://localhost:5111/api/products/63da209c3ad39f2ebba1866f
+name: Specific Products - 5111
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675181480962.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

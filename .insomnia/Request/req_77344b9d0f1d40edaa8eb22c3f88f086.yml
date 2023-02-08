@@ -1,0 +1,21 @@
+_id: req_77344b9d0f1d40edaa8eb22c3f88f086
+type: Request
+parentId: fld_1cb850d24c6045de9be195c626c3df16
+modified: 1675165384573
+created: 1675157446670
+url: http://localhost:5111/api/hilsen/secrethilsen
+name: HEMMELIG HILSEN - 5111
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1675156442975
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
